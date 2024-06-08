@@ -24,7 +24,7 @@ const {
 export const HomeData = {
 	title: "Selamat Datang di Gubernur.AI",
 	subtitle:
-		"Memanfaatkan Artificial Intelligence dan big data untuk memberikan solusi bagi para calon Wali Kota dalam meningkatkan efektivitas kampanye mereka melalui pengumpulan dan analisis data politik yang akurat dan komprehensif.",
+		"Memanfaatkan Artificial Intelligence dan big data untuk memberikan solusi bagi para calon Gubernur dalam meningkatkan efektivitas kampanye mereka melalui pengumpulan dan analisis data politik yang akurat dan komprehensif.",
 
 	problem: {
 		title: "Permasalahan Ketika Pemilu",
