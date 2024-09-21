@@ -101,7 +101,7 @@ export const Navbar = () => {
 				})}
 			</div>
 
-			<div className="block md:hidden lg:hidden lg:flex gap-2">
+			<div className="block md:hidden lg:hidden gap-2">
 				<button onClick={() => setOpenSheet(true)}>
 					<Menu className={`${scrolled ? "text-black" : "text-white"}`} />
 				</button>
