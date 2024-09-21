@@ -80,7 +80,7 @@ export const Navbar = () => {
 										</NavigationMenuTrigger>
 									</Link>
 									<NavigationMenuContent>
-										<ul className="w-[500px] p-6 flex flex-col gap-2">
+										<ul className="w-[350px] p-6 flex flex-col gap-4">
 											{value.subLink?.map((item) => {
 												return (
 													<Link
